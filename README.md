@@ -1,7 +1,12 @@
 ### Hi there 👋
----
+***
+### GitHub Commits ✅
+![snake](https://raw.githubusercontent.com/xMarioDominguez/xmariodominguez/output/github-contribution-grid-snake.svg)
+***
 ### GitHub Stats! 📊
 ![stats](https://github-readme-stats.vercel.app/api?username=xmariodominguez&show_icons=true&count_private=true&theme=ocean_dark)
+
+
 <!--
 **xMarioDominguez/xmariodominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
