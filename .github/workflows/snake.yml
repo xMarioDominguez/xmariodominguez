@@ -1,7 +1,7 @@
 name: generate animation
 
 on:
-  # run automatically every 6 hours
+  # Run at every minute past every 24th hour on every day-of-week from Monday through Friday.
   schedule:
     - cron: "* */24 * * 1-5" 
   
