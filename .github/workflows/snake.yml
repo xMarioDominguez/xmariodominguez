@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # Run at every minute past every 24th hour on every day-of-week from Monday through Friday.
+  # Run at every minute past every 24th hour on Monday.
   schedule:
-    - cron: "* */24 * * 1-5" 
+    - cron: "* */24 * * 1" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
