@@ -1,7 +1,7 @@
 ### Hi there 👋
 ***
 ### GitHub Commits ✅
-![snake](https://raw.githubusercontent.com/xMarioDominguez/xmariodominguez/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/xMarioDominguez/xmariodominguez/output/github-contribution-grid-snake-dark.svg)
 ***
 ### GitHub Stats! 📊
 ![stats](https://github-readme-stats.vercel.app/api?username=xmariodominguez&show_icons=true&count_private=true&theme=ocean_dark)
