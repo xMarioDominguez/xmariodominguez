@@ -1,7 +1,7 @@
 ### Hi there 👋
 ***
 ### GitHub Commits ✅
-![snake](https://raw.githubusercontent.com/xMarioDominguez/xmariodominguez/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/xMarioDominguez/xmariodominguez/output/github-snake-dark.svg)
 <!--
 ***
 ### GitHub Stats! 📊
